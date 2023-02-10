@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "NHL Highlights | Islanders vs. Canucks - January 3, 2023 - SPORTSNET",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjVCU1D_Q2gk",
+      "urlToImage": null,
+      "publishedAt": "2023-01-04T05:48:18Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Kevin Iole",
+      "title": "Dana White needs to briefly step away from UFC to raise awareness about domestic violence - Yahoo Sports",
+      "description": "Dana White admitted he was wrong to slap his wife during a New Year's Eve celebration in Mexico. But there are things he can do to raise awareness of the...",
+      "url": "https://sports.yahoo.com/dana-white-needs-to-briefly-step-away-from-ufc-to-raise-awareness-about-domestic-violence-215352545.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RGrKTE.KAkzKTDkY_tOnuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/44a61dd0-8ba7-11ed-befd-e83a9bd76356",
+      "publishedAt": "2023-01-03T21:53:52Z",
+      "content": "UFC president Dana White apologized for slapping his wife during a New Year's Eve celebration at a club in Mexico. (Photo by Cooper Neill/Zuffa LLC)\r\nDana White's life changed forever on the night of… [+6292 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "NFL Week 18 picks: Steelers sneak into playoffs, Titans shock Jaguars, Eagles destroy Giants - CBS Sports",
+      "description": "Wondering which NFL teams are going to win in Week 18? You've come to the right place to find out",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-18-picks-steelers-sneak-into-playoffs-titans-shock-jaguars-eagles-destroy-giants/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/03/2b2ba65e-70f6-4be4-a541-dcba446638be/thumbnail/1200x675/ac38036274f6b8ff3c5b1cb9a3620a6c/tomlin.jpg",
+      "publishedAt": "2023-01-03T17:12:00Z",
+      "content": "Welcome to the Week 18 picks.\r\nI've been making NFL picks here at CBS Sports for 10 years and this week marks the first time where I don't think my head was completely in it. I usually finish up this… [+12731 chars]"
+    }
+  ]
+}
